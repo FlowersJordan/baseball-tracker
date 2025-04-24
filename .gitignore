@@ -1,0 +1,3 @@
+# Ignore output and big data files
+/data/*.csv
+/output/*
